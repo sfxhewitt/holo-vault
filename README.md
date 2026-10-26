@@ -6,4 +6,5 @@ Live: https://sfxhewitt.github.io/holo-vault/
 - Vault with variant, condition, grader (PSA/ACE/CGC/BGS/TAG), grade, qty, paid price
 - Live GBP portfolio from real Cardmarket / TCGplayer prices (ECB FX via Frankfurter), 30D→trend charts, movers, rarity mix, daily snapshots
 - Set completion bars, wishlist, pack-opening simulator with real set checklists
+- Pokédex entry per card (PokeAPI) and eBay UK sold-listings link for price checks
 - All data stored locally; JSON export/import. No keys, no tracking.
